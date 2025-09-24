@@ -1,4 +1,4 @@
 新規作成したファイル
 I am on the master branch.
-I have settled a conflict
-I am not a mere feature
+I have settled a conflict.
+I will try to provide a good feature.
